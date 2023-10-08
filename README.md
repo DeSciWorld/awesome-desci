@@ -2,6 +2,7 @@
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
+You can also find this repository in **[Gosh]** (https://app.gosh.sh/o/desciworld/r/awesome-desci/tree/main). 
   
 ## Contents
 
