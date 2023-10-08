@@ -2,6 +2,7 @@
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
+You can also find this repository in **[Gosh]** (https://app.gosh.sh/o/desciworld/r/awesome-desci/tree/main). 
   
 ## Contents
 
@@ -161,8 +162,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
   ---
 ## Scientific papers
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
-  
-    
+      
   **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x
   
   **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
@@ -193,8 +193,12 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   **OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
   
   **Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
+  **OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
+  
+  **Subramanian** H (2023) [A Decentralized Marketplace for Patient-Generated Health Data: Design Science Approach(https://www.jmir.org/2023/1/e42743) J Med Internet Res 2023;25:e42743 DOI: 10.2196/42743
   
   **Teo** Z.L., **Tin**, D.S.W. (2023) [Non-fungible tokens for the management of health data](https://www.nature.com/articles/s41591-022-02125-2). Nat Med 29, 287–288.
+  
   **Trovò**, B., Massari, N. (2021). Ants-Review: A Privacy-Oriented Protocol for Incentivized Open Peer Reviews on Ethereum. In: , et al. Euro-Par 2020: Parallel Processing Workshops. Euro-Par 2020. Lecture Notes in Computer Science(), vol 12480. Springer, Cham. https://doi.org/10.1007/978-3-030-71593-9_2
   
   **van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
